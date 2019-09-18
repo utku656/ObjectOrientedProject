@@ -1,0 +1,9 @@
+Uygulamada input ve output dosyaları application.properties içinde tanımlanmıştır.İlk olarak uygulamada input dosyamızdan
+verilerimizi okuyoruz .Regex yapısı kullanarak belirlediğimiz sabit string ifadeleri metinimizden buluyoruz. 
+Bu input dosyamızdan heroları ve enemyleri belirliyoruz.
+Onların health ve attack ve position değerlerini çekiyoruz. Hero belirlenen yolda enemyler ile karşılaşıyor ve mücadele ediyor.
+
+Proje SpringBoot kullanarak yazılmıştır.SpringBoot projesi olarak çalıştırabilirsiniz . Input ve output dosyaları 
+application.properties içinde belirtilmiştir.
+
+BARIŞ UTKU KAYMAN
